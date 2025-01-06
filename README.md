@@ -1,1 +1,1 @@
-# aulas-js-cursoemvideo
+## Aulas JavaScript &copy; CursoemVídeo
